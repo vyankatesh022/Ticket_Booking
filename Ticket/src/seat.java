@@ -5,7 +5,7 @@ public class seat {// 2022
 	public static final String b = "\u001B[46m";
 	public static final String p1 = "\u001B[35m";
 	public static final String g2 = "\033[1;33m";
-	static int a[] = new int[10];
+	static int a[] = new int[22];
 
 	
 	static void print() {
